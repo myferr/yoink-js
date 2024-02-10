@@ -1,0 +1,13 @@
+{
+  "name": "yoink-js",
+  "version": "1.0.0",
+  "description": "A simple JavaScript CLI to clone GitHub repositories.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": ["javascript", "npm", "cli", "github"],
+  "author": "Myfer",
+  "license": "ISC"
+}
