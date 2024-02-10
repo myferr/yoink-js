@@ -15,9 +15,11 @@ yoink.js clones GitHub repositories from the command-line using JavaScript.
 npm i yoink-js
 ~```~~
 
+Right now yoink.js isn't on NPM, run `git clone https://github.com/myferr/yoink-js/`
+
 # How to use. 🚀
 
-To use yoink.js run `npm start` in your command line
+To use yoink.js go into the `yoink-js` directory using your command line and run `npm start` in your command line
 this will run yoink.js in your command line, prompting you with the questions:
 
 * What is the owner of the GitHub repository's username?
