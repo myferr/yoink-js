@@ -1,6 +1,6 @@
 # yoink.js 🟨
 
-> yoink.js is a clone of my [better-git-clone](https://github.com/myferr/better-git-clone/) built with JavaScript.
+> yoink.js is a clone of my [better-git-clone](https://github.com/myferr/better-git-clone/) but instead of Python it's built with JavaScript.
 
 yoink.js clones GitHub repositories from the command-line using JavaScript.
 
