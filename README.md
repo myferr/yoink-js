@@ -7,15 +7,11 @@ yoink.js clones GitHub repositories from the command-line using JavaScript.
 
 # How to install yoink.js 👋
 
-~~Since yoink.js is published on [NPM](https://npmjs.com) it's super simple to install yoink.js!~~
-
-~~Run on your command line:~~
-
-~~```
-npm i yoink-js
-~```~~
-
-Right now yoink.js isn't on NPM, run `git clone https://github.com/myferr/yoink-js/`
+Run in your command line the following command:
+> This requires Git. 👍
+```
+git clone https://github.com/myferr/yoink-js/
+```
 
 # How to use. 🚀
 
